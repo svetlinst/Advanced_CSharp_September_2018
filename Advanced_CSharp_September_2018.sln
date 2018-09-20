@@ -15,15 +15,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L05_Hot_Potato", "L05_Hot_P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "L06_Traffic_Light", "L06_Traffic_Light\L06_Traffic_Light.csproj", "{FD221920-333F-4E75-A474-88591077CDD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Reverse_Numbers_With_Stack", "P01_Reverse_Numbers_With_Stack\P01_Reverse_Numbers_With_Stack.csproj", "{5F8D3B2E-012F-4A44-8F00-0839E0E8AA37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_Reverse_Numbers_With_Stack", "P01_Reverse_Numbers_With_Stack\P01_Reverse_Numbers_With_Stack.csproj", "{5F8D3B2E-012F-4A44-8F00-0839E0E8AA37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Basic_Stack_Operations", "P02_Basic_Stack_Operations\P02_Basic_Stack_Operations.csproj", "{8A9FB700-F03C-444F-A621-B3F1A31BCA0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_Basic_Stack_Operations", "P02_Basic_Stack_Operations\P02_Basic_Stack_Operations.csproj", "{8A9FB700-F03C-444F-A621-B3F1A31BCA0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Maximum_Element", "P03_Maximum_Element\P03_Maximum_Element.csproj", "{7C6C9676-C7AA-4CC6-935F-1AD62ED0FD1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P03_Maximum_Element", "P03_Maximum_Element\P03_Maximum_Element.csproj", "{7C6C9676-C7AA-4CC6-935F-1AD62ED0FD1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_Basic_Queue_Operations", "P04_Basic_Queue_Operations\P04_Basic_Queue_Operations.csproj", "{D383E8A5-A701-4EE8-BF74-3A23185BD678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P04_Basic_Queue_Operations", "P04_Basic_Queue_Operations\P04_Basic_Queue_Operations.csproj", "{D383E8A5-A701-4EE8-BF74-3A23185BD678}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Calculate_Sequence_With_Queue", "P05_Calculate_Sequence_With_Queue\P05_Calculate_Sequence_With_Queue.csproj", "{1CF78817-5976-43C4-9D9E-1DF54B4C5E44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P05_Calculate_Sequence_With_Queue", "P05_Calculate_Sequence_With_Queue\P05_Calculate_Sequence_With_Queue.csproj", "{1CF78817-5976-43C4-9D9E-1DF54B4C5E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_Truck_Tour", "P06_Truck_Tour\P06_Truck_Tour.csproj", "{80AD582B-2777-4785-B330-9BCCD37B11A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_Balanced_Parentheses", "P07_Balanced_Parentheses\P07_Balanced_Parentheses.csproj", "{667B4AAA-BDE5-4054-97F7-A1223DC24EE2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{1CF78817-5976-43C4-9D9E-1DF54B4C5E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CF78817-5976-43C4-9D9E-1DF54B4C5E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CF78817-5976-43C4-9D9E-1DF54B4C5E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AD582B-2777-4785-B330-9BCCD37B11A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AD582B-2777-4785-B330-9BCCD37B11A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AD582B-2777-4785-B330-9BCCD37B11A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AD582B-2777-4785-B330-9BCCD37B11A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667B4AAA-BDE5-4054-97F7-A1223DC24EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667B4AAA-BDE5-4054-97F7-A1223DC24EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667B4AAA-BDE5-4054-97F7-A1223DC24EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667B4AAA-BDE5-4054-97F7-A1223DC24EE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
